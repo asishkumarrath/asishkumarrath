@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋  
+I'm Asish Kumar Rath, a web developer passionate about building modern, interactive websites.
+
+## 🚀 Skills  
+HTML | CSS | JavaScript | React.js
+
+## 🌟 Projects
+- [Responsive Portfolio Website](#)
+  
+
+💡 *Always learning, always building!*
+
 
 <!--
 **asishkumarrath/asishkumarrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
